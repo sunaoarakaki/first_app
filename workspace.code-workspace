@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../HTML.CSS/chat-app"
+		},
+		{
+			"path": "../../ruby"
+		},
+		{
+			"path": "../../sinatra"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
